@@ -50,8 +50,4 @@ class CountingSortSteps {
 		return sortedArray;
 	}
 
-
-
-
-
 }

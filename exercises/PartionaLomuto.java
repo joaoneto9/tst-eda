@@ -13,7 +13,7 @@ class PartionaLomuto {
 		}
 
 		partiona(entrada);
-		 System.out.println(Arrays.toString(entrada));
+		System.out.println(Arrays.toString(entrada));
 	}
 
 	public static void partiona(int[] array) {
